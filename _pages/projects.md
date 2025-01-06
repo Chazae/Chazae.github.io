@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A collection of my personal projects
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Recent, Career Oriented Research, Game Design, ]
 horizontal: false
 ---
