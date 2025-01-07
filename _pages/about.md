@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Cybersecurity Sepcialist ***Seattle, WA***
+subtitle: <b>Cybersecurity Specialist</b> -- <i>Seattle, WA</i>
 
 profile:
   align: right
@@ -14,13 +14,13 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
-I am currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
+Currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
 
 Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include **Freshdesk**, **Zendesk**, **Salesforce**, **Service Desk**, and **Bold Desk**. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
 
-**Please check out my projects page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show just how motivated and eager I am to learn new technical topics outside of the workspace.
+**Please check out my [projects](https://chazae.github.io/projects) page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show just how motivated and eager I am to learn new technical topics outside of the workspace.
 
-My resume, projects, and blog can be found in the navigation bar above.
+My [resume](https://chazae.github.io/resume), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can be found in the navigation bar above.
 
 **Below** I have a list of relevant courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
 
@@ -47,9 +47,9 @@ Attended **Western Washington University** from 2014 to 2017 and have **134 cred
 > -*Probability and Statistical Inference*  
 > -*Series and Limits*  
 
-Most of my coursework at Western revolved around mathematics, python, java, and statistics. I am capable of writing scripts with multiple different python libraries and am capable of learning new ones quickly. I can incorporate the fundamentals of data structures and sorting algorithms when trying to parse/organise raw data. Due to my mathematics background, I am comfortable learning and applying advanced filtering algorithms when investigating data sets.
+Most of my coursework at Western revolved around mathematics, python, java, and statistics. I am capable of writing scripts with multiple different python libraries and am capable of learning new ones quickly. I can incorporate the fundamentals of data structures and sorting algorithms when trying to parse/organize raw data. Due to my mathematics background, I am comfortable learning and applying advanced filtering algorithms when investigating data sets.
 
-I was an active member of multiple clubs including the Collegiate Cyber Defense Club and Video Game Design Club. As a compteing member of the WWU team for the National Collegiate Cyber Defense Competition, I was in charge of administering and hardening a Windows server acting as the Domain Controller. As the exact operating system of the Domain Controller was a mystery until the event, I had to learn how to set up and defend this service on mutliple versions of Windows Server.  
-**In 2017 we took 2nd place in state.**
+I was an active member of multiple clubs including the Collegiate Cyber Defense Club and Video Game Design Club. As a compteing member of the WWU team for the National Collegiate Cyber Defense Competition, I was in charge of administering and hardening a Windows server acting as the Domain Controller. As the exact operating system of the Domain Controller was a mystery until the event, I had to learn how to set up and defend this service on multiple versions of Windows Server.  
+**In 2017 we took 2nd place in the Pacific Rim.**
 
 ***I am most easily reached by email.***
