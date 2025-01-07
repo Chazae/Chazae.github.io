@@ -14,6 +14,7 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
+  ---
 Currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
 
 As a result of working in the service industry for the past 13 years, my soft skills are top notch. Understanding a consumers needs, and having the relevant skills to solve their issues at hand are key to striving in those spaces. **In the tech field,efficient Root Cause Analysis problem solving can be jump started through effective listening and communicating**.
