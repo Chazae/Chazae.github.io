@@ -1,8 +1,8 @@
 ---
 layout: page
 title: submenus
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 dropdown: true
 children:
   - title: repositories
