@@ -407,8 +407,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-stake",
+          title: 'Stake',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -452,6 +452,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-stake",
+          title: 'Stake',
+          description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Stake/";
             },},{
         id: 'social-email',
         title: 'email',
