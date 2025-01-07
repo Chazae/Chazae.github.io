@@ -16,8 +16,6 @@ social: true # includes social icons at the bottom of the page
 ---
 I am currently working on personal projects to keep my skills sharp while I pursue a Technical Support position. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of Unreal, Blender, Audacity, and GIMP 3.0.
 
-
-
 Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include Freshdesk, Zendesk, Salesforce, Service Desk, and Bold Desk. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
 
 **Please check out my projects page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show that I am motivated and eager to learn new technical topics outside of the workspace.
