@@ -6,7 +6,7 @@
     "email": "Chasesharp96@gmail.com",
     "phone": "",
     "url": "https://chazae.github.io",
-    "summary": "A life long learner who loves to solve puzzles.",
+    "summary": "A multifaceted tech specialist who is passionate about solving puzzles.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -224,7 +224,7 @@
       "highlights": ["Vampires", "Physics","Low-Poly Assets"],
       "startDate": "2024-07-14",
       "endDate": "Current",
-      "url": "https://chazae.github.com/projects/Stake"
+      "url": "https://chazae.github.io/projects/Stake"
     },
     {
       "name": "Pentest Lab",
@@ -232,7 +232,7 @@
       "highlights": ["Metasploit", "",""],
       "startDate": "2014-04-16",
       "endDate": "Current",
-      "url": "https://chazae.github.com/projects/pentestLab"
+      "url": "https://chazae.github.io/projects/pentestLab"
     },
     {
       "name": "Samurai Slice",
@@ -240,7 +240,7 @@
       "highlights": ["Made using GODOT","2D Pixel Art", "Side-Scroller","State Machines through Enumeration"],
       "startDate": "2023-10-14",
       "endDate": "Current",
-      "url": "https://chazae.github.com/projects/SamuraiSlice"
+      "url": "https://chazae.github.io/projects/SamuraiSlice"
     },
     {
       "name": "GameJam: Fish & Ships",
@@ -256,7 +256,7 @@
       "highlights": ["Directory Tree Traversal", "OWASP SQL Injection Cheat Sheet","Top Score at WCC"],
       "startDate": "2019-09-18",
       "endDate": "2019-09-19",
-      "url": "https://chazae.github.com/projects/USBankCTF"
+      "url": "https://chazae.github.io/projects/USBankCTF"
     },
     {
       "name": "GameJam Game: Wonderland",
@@ -264,7 +264,7 @@
       "highlights": ["Made with Unity", "C# scripts","Low-Poly Assets/Animations"],
       "startDate": "2017-07-14",
       "endDate": "2017-07-16",
-      "url": "https://chazae.github.com/projects/Wonderland"
+      "url": "https://chazae.github.io/projects/Wonderland"
     },
     {
       "name": "National Collegiate Cyber Defense Competition - Pacific Rim",
@@ -272,7 +272,7 @@
       "highlights": ["Domain Controller Hardening", "Real-World Experience","Group Collaboration"],
       "startDate": "2015-09-12",
       "endDate": "2017-06-14",
-      "url": "https://chazae.github.com/projects/CCDC"
+      "url": "https://chazae.github.io/projects/CCDC"
     },
     {
       "name": "PicoCTF 2014",
@@ -280,7 +280,7 @@
       "highlights": ["Buffer Overflow", "Heap Overflow","SQL Injection"],
       "startDate": "2014-05-24",
       "endDate": "2014-05-30",
-      "url": "https://chazae.github.com/projects/PicoCTF"
+      "url": "https://chazae.github.io/projects/PicoCTF"
     }
   ]
 }
