@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Cybersecurity Specialist</b> -- <i>Seattle, WA</i>
+subtitle: <h2><b>Cybersecurity Specialist</b></h2> -- <i>Seattle, WA</i>
 
 profile:
   align: right
@@ -22,7 +22,7 @@ Independent of coursework, I have studied and simulated a multitude of different
 
 **Please check out my [projects](https://chazae.github.io/projects) page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show just how motivated and eager I am to learn new technical topics outside of the workspace.
 
-My [resume](https://chazae.github.io/resume), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can be found in the navigation bar above.
+My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can be found in the navigation bar above.
 
 **Below** I have a list of relevant courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
 
@@ -62,3 +62,4 @@ I was an **active member** of multiple clubs including the **Collegiate Cyber De
 **In 2017 we took 2nd place in the Pacific Rim.**
 
 ***I am most easily reached by email.***
+  ---
