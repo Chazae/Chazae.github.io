@@ -14,19 +14,19 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
-I am currently working on personal projects to keep my skills sharp while I pursue a Technical Support position. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of Unreal, Blender, Audacity, and GIMP 3.0.
+I am currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
 
-Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include Freshdesk, Zendesk, Salesforce, Service Desk, and Bold Desk. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
+Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include **Freshdesk**, **Zendesk**, **Salesforce**, **Service Desk**, and **Bold Desk**. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
 
-**Please check out my projects page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show that I am motivated and eager to learn new technical topics outside of the workspace.
+**Please check out my projects page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show just how motivated and eager I am to learn new technical topics outside of the workspace.
 
-My resume, projects, and blog can be found in the navitgation bar.  
+My resume, projects, and blog can be found in the navigation bar above.
 
 **Below** I have a list of relevant courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
 
   ---
 
-I graduated from Whatcom Community College in 2021 with an **Associates of Science** in ***Cybersecurity***.
+**Graduated** from Whatcom Community College in 2021 with a **Associate of Science** in ***Cybersecurity***.
 
 >My courses included:  
 > -*Open Source Operating Systems*  
@@ -34,9 +34,9 @@ I graduated from Whatcom Community College in 2021 with an **Associates of Scien
 > -*Network Security I and II*  
 > -*Industrial Control Systems Security*  
 
-My experience at Whatcom was incredible. I learned how to configure a multitude of Cisco Devices through Cisco IOS. I gained experience with snort, burpsuite, and other useful network tools. I physically put together a network from the ground up, and was taught the importance of good cable management.
+My experience at Whatcom was incredibly tangible. I learned how to configure a multitude of Cisco devices through Cisco IOS. I gained experience with Snort, Burpsuite, nmap, and other useful network tools. I commonly used Linux(Debian/Redhat), Virualization software, and packetTracer in course work.
 
-I also attended **Western Washington University** from 2014 to 2017 and have **134 credits completed** towards a **Bachelors of Science** in ***Computer Science***. I completed the requirements for a **Minor** in ***Mathematics***.
+Attended **Western Washington University** from 2014 to 2017 and have **134 credits completed** towards a **Bachelor of Science** in ***Computer Science***. I completed the requirements for a **Minor** in ***Mathematics***.
 
 >My courses included:
 > -*Computer Programming I*  
@@ -47,6 +47,9 @@ I also attended **Western Washington University** from 2014 to 2017 and have **1
 > -*Probability and Statistical Inference*  
 > -*Series and Limits*  
 
-While at WWU I was a competeing member of the WWU team for the National Collegiate Cyber Defense Competition. In 2017 we took 2nd place.
+Most of my coursework at Western revolved around mathematics, python, java, and statistics. I am capable of writing scripts with multiple different python libraries and am capable of learning new ones quickly. I can incorporate the fundamentals of data structures and sorting algorithms when trying to parse/organise raw data. Due to my mathematics background, I am comfortable learning and applying advanced filtering algorithms when investigating data sets.
 
-I am most easily reached by email.
+I was an active member of multiple clubs including the Collegiate Cyber Defense Club and Video Game Design Club. As a compteing member of the WWU team for the National Collegiate Cyber Defense Competition, I was in charge of administering and hardening a Windows server acting as the Domain Controller. As the exact operating system of the Domain Controller was a mystery until the event, I had to learn how to set up and defend this service on mutliple versions of Windows Server.  
+**In 2017 we took 2nd place in state.**
+
+***I am most easily reached by email.***
