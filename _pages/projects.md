@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my personal projects and career research. They often mix together!
 nav: true
 nav_order: 2
-display_categories: [Recent, Career Oriented Research, Game Design, ]
+display_categories: [Recent, Career Oriented Research, Game Design]
 horizontal: false
 ---
 

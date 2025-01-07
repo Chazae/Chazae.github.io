@@ -10,11 +10,35 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Seattle, WA</p>
+    <p>Picture taken in Port Angeles, WA</p>
 
 social: true # includes social icons at the bottom of the page
 ---
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I graduated from Whatcom Community College in 2021 with an Associates of Science in Cybersecurity.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My courses included:
+  Open Source Operating Systems
+  Cisco Networking I, II, and III
+  Network Security I and II
+  Industrial Control Systems Security
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My experience at Whatcom was incredible. I learned how to configure a multitude of Cisco Devices through Cisco IOS. I gained experience with snort, burpsuite, and other useful network tools. I physically put together a network from the ground up, and was taught the importance of good cable management.
+
+I also attended Western Washington University from 2014 to 2017 and have 134 credits completed towards a Bachelors of Science in Computer Science. I completed the requirements for a Minor in Mathematics.
+
+My course work included:
+  Computer Programming I
+  Computer Programming and Linear Data Structures
+  Data Structures
+  Calculus I,II, and III
+  Linear Algebra
+  Probability and Statistical Inference
+  Series and Limits
+
+While at WWU I was a competeing member of the WWU team for the National Collegiate Cyber Defense Competition. In 2017 we took 2nd place.
+
+I am currently working on personal projects to keep my skills sharp while I pursue a position within the tech field.
+
+Please check out my projects page while you are here! I have been told that I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best.
+
+I am most easily reached by email.
