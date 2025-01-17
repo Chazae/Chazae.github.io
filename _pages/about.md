@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <h2><b>Cybersecurity Specialist</b></h2> -- <i>Seattle, WA</i>
+subtitle: <h3><b>Cybersecurity Specialist</b></h3> -- <i>Seattle, WA</i>
 
 profile:
   align: right
@@ -10,14 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Seattle, WA</p>
-    <p>Picture taken in Port Angeles, WA</p>
+    <h6><p>Picture taken in Port Angeles, WA</p></h6>
 
 social: true # includes social icons at the bottom of the page
 ---
   ---
 Currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
 
-As a result of working in the service industry for the past 13 years, my soft skills are top notch. Understanding a consumers needs, and having the relevant skills to solve their issues at hand are key to striving in those spaces. **In the tech field,efficient Root Cause Analysis problem solving can be jump started through effective listening and communicating**.
+As a result of working in the service industry for the past 13 years, my soft skills are top notch. Understanding a consumers needs, and having the relevant skills to solve their issues at hand are key to striving in those spaces. **In the tech field, efficient Root Cause Analysis problem solving can be jump started through effective listening and communicating**.
 
 Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include **Freshdesk**, **Zendesk**, **Salesforce**, **Service Desk**, and **Bold Desk**. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
 
@@ -36,7 +36,7 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
 > -*Cisco Networking I, II, and III*  
 > -*Network Security I and II*  
 > -*Industrial Control Systems Security*  
-> -*Digital Forensics
+> -*Digital Forensics*
 
 My experience at Whatcom was incredibly tangible. I learned how to configure a multitude of Cisco devices through **Cisco IOS**. I gained experience with **Snort**, **Burpsuite**, **nmap**, and other useful network tools. I commonly used **Linux(Debian/Redhat)**, **Virualization software**, and **packetTracer** in course work.
 
@@ -62,5 +62,4 @@ Most of my coursework at Western revolved around **mathematics**, **python**, **
 I was an **active member** of multiple clubs including the **Collegiate Cyber Defense Club** and **Video Game Design Club**. As a compteing member of the WWU team for the **National Collegiate Cyber Defense Competition**, I was in charge of administering and hardening a Windows server acting as the Domain Controller. As the exact operating system of the Domain Controller was a mystery until the event, I had to learn how to set up and defend this service on multiple versions of Windows Server.  
 **In 2017 we took 2nd place in the Pacific Rim.**
 
-***I am most easily reached by email.***
-  ---
+***I am most easily reached by email.***  

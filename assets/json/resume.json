@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Chase Sharp",
-    "label": "IT Specialist",
+    "label": "Cybersecurity Specialist",
     "image": "",
     "email": "Chasesharp96@gmail.com",
     "phone": "",
@@ -33,30 +33,30 @@
       "location": "Bellingham, Washington",
       "position": "Line Cook",
       "url": "https://thesandwichodyssey.com",
-      "startDate": "2023-01-01",
+      "startDate": "2023-04-15",
       "endDate": "Current",
-      "summary": "T",
-      "highlights": ["Independent Work,"]
+      "summary": "As a Line Cook I was in charge of fufilling orders ",
+      "highlights": ["Independent Work"]
     },
     {
       "name": "T-Mobile",
       "location": "Bellingham, Washington",
       "position": "Account Associate",
       "url": "https://www.T-Mobile.com",
-      "startDate": "2022-01-01",
-      "endDate": "Current",
-      "summary": "T",
-      "highlights": ["Independent Work"]
+      "startDate": "2023-01-03",
+      "endDate": "2023-04-01",
+      "summary": "",
+      "highlights": ["",""]
     },
     {
       "name": "Vaughns Ventures",
       "location": "Bellingham, Washington",
       "position": "Retail Closing Lead",
       "url": "https://www.T-Mobile.com",
-      "startDate": "2019-12-06",
-      "endDate": "2023-11-05",
-      "summary": "T",
-      "highlights": ["Retail, Soft Skills, Interpersonal Skills, Conflict Management, System Troubleshooting,"]
+      "startDate": "2019-11-11",
+      "endDate": "2022-12-14",
+      "summary": "As a Retail Associate at Vaughns Ventures main my responsibilites involved sales, customer retention, and technical support. As a small retail business, their sales depended on the loyalty of their regulars.",
+      "highlights": ["Retail", "Soft Skills", "Interpersonal Skills", "Conflict Management", "System Troubleshooting"]
     }
   ],
   "education": [
@@ -69,52 +69,30 @@
       "startDate": "2020-03-02",
       "endDate": "2022-01-02",
       "score": "10",
-      "courses": ["CCNA "]
+      "courses": ["Cisco Networking I, II, and III", "Network Security I and II", "Open Source Operating Systems", "Digital Forensics", "Industrial Control System Security"]
     },
     {
       "institution": "Western Washington University",
       "location": "Bellingham, Washington",
       "url": "https://www.wwu.edu",
       "area": "Computer Science",
-      "studyType": "Bachelors in Science - 134 Credits Completed",
+      "studyType": "Bachelors in Science - 134 Credits Completed -- Completed Courses for a Minor in Mathematics",
       "startDate": "2014-09-24",
       "endDate": "2018-03-14",
-      "courses": ["Data Structures","Calculus 3","Linear Algebra","Probability & Statistics"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "courses": ["Data Structures","Computer Programming 1","Computer Programming and Linear Data structure","Calculus 3","Linear Algebra","Probability & Statistics"]
     }
   ],
   "skills": [
     {
-      "name": "Soft Skills",
+      "name": "Cisco Networking",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Root Cause Problem Solving",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Cisco switch IOS",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
+        "Ability to configure Cisco Devices through the Cisco IOS CLI",
+        "Expert knowledge of TCP/IP, BGP, EIGRP, and OSPF",
+        "Extensive practice with the OSI model",
+        "Able to configure, administrate, and repair both the Windows and Linux Operating systems.",
+        "",
         "Quantum Teleportation"
       ]
     },
@@ -123,7 +101,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
+        "Freshdesk/Zendesk/Salesforce/Service Desk/Bold Desk",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -136,10 +114,23 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
+        "Experience with ",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Customer Relations Expert",
+        "Customer Retention",
+        "Effective with Conflict Managment",
+        "",
         "Quantum Communication",
         "Quantum Teleportation"
       ]
@@ -208,11 +199,11 @@
   "references": [
     {
       "name": "Lauren Beyer",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-grill",
       "reference": "Owner of The Sandwich Odyssey."
     },
     {
-      "name": "Autumn Marceau",
+      "name": "Erin Lapsansky",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Manager at Vaughns Ventures"
     }
@@ -228,8 +219,8 @@
     },
     {
       "name": "Pentest Lab",
-      "summary": "I've created a variety of pentesting labs throughout my life. The one I have linked below is an example setup of what I might use to practice exploits on preconfigured machines. This has immensely helped me piece things together that I have only ever read about in books or on forumns.",
-      "highlights": ["Metasploit", "",""],
+      "summary": "I've created a variety of pentesting labs throughout my life. The project provides gives an example setup of what I might use to practice exploits on preconfigured machines. It is a step by step guide on how to set up one of these labs, and how to make sure that it is contained locally. These labs help me prepare for both defense and offense in a live enviroment setting.",
+      "highlights": ["Metasploit", "Linux (Kali/Ubuntu/Fedora)","Windows (Server 2022/2019/2016), Snort, Burpsuite, JohnTheRipper"],
       "startDate": "2014-04-16",
       "endDate": "Current",
       "url": "https://chazae.github.io/projects/pentestLab"
