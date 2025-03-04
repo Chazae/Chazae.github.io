@@ -64,4 +64,8 @@ Most of my coursework at Western revolved around **mathematics**, **python**, **
 I was an **active member** of multiple clubs including the **Collegiate Cyber Defense Club** and **Video Game Design Club**. As a compteing member of the WWU team for the **National Collegiate Cyber Defense Competition**, I was in charge of administering and hardening a Windows server acting as the Domain Controller. As the exact operating system of the Domain Controller was a mystery until the event, I had to learn how to set up and defend this service on multiple versions of Windows Server.  
 **In 2017 we took 2nd place in the Pacific Rim.**
 
+---
+
 ***I am most easily reached by email.***  
+
+---
