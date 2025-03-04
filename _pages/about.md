@@ -46,6 +46,8 @@ Industrial Control Systems Security covered security concepts tailored to embedd
 
 Digital Forensics covered a vast amount of material pertaining to **digital fingerprints**, **meta-data**, **file recovery**, **network scans**, and **intrusion detection/prevention systems**. Using tools like **Snort**, we set rules and monitored their effect using **WireShark**. For web pages we used **Burpsuite** to collect, disseminate, and organize data. The basics of stegnography were also taught.  
 
+---
+
 Attended **Western Washington University** from 2014 to 2017 and have **134 credits completed** towards a **Bachelor of Science** in ***Computer Science***. I completed the requirements for a **Minor** in ***Mathematics***.
 
 >My courses included:  
