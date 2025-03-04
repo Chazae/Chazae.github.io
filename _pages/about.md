@@ -29,7 +29,7 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
 
   ---
 
-**Graduated** from Whatcom Community College in 2021 with a **Associate of Science** in ***Cybersecurity***.
+Graduated from **Whatcom Community College** in 2021 with a **Associate of Science** in ***Cybersecurity***.
 
 >My courses included:  
 > -*Open Source Operating Systems*  
