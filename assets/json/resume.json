@@ -6,7 +6,7 @@
     "email": "Chasesharp96@gmail.com",
     "phone": "",
     "url": "https://chazae.github.io",
-    "summary": "A multifaceted tech specialist who is passionate about solving puzzles.",
+    "summary": "A multifaceted tech specialist with a passion for solving puzzles.",
     "location": {
       "address": "",
       "postalCode": "98105",
@@ -35,7 +35,7 @@
       "url": "https://thesandwichodyssey.com",
       "startDate": "2023-04-15",
       "endDate": "2025-03-15",
-      "summary": "Worked and maintained an industrial sized range. As the main sandwich on a high volume street, I was in charge of cooking 15+lbs of meat per hour.",
+      "summary": "Worked and maintained an industrial sized range. As the main sandwich shop on a high volume street, cooked around 10+lbs of meat per hour daily . Help setup, run, and breakdown multiple catering events every year. Diagnose and repair a Cisco Router or work computer running Windows 11 to restore online ordering capability.",
       "highlights": ["Network Troubleshooting","Router Configuration","Independent Work","High Volume", "Catering"]
     },
     {
@@ -91,9 +91,9 @@
         "Ability to configure Cisco Devices through the Cisco IOS CLI",
         "Expert knowledge of TCP/IP, BGP, EIGRP, and OSPF",
         "Extensive practice with the OSI model",
-        "Able to configure, administrate, and repair both the Windows and Linux Operating systems.",
-        "",
-        ""
+        "Able to configure, administrate, and repair both Windows and Linux Operating systems.",
+        "Tenacious Troubleshooter",
+        "Experience hardening Switches/Routers/Operating Systems"
       ]
     },
     {
@@ -101,12 +101,12 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Freshdesk/Zendesk/Salesforce/Service Desk/Bold Desk",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Knowledgeable of Freshdesk/Zendesk/Salesforce/Service Desk/Bold Desk",
+        "Clear, descriptive, and communitive documentation",
+        "Proficient with Inventory Management",
+        "Experience working within Service Level Agreements",
+        "Familiar with Network Maps",
+        "Quickly complete Customer Service Requests"
       ]
     },
     {
@@ -116,10 +116,10 @@
       "keywords": [
         "Microsoft Azure",
         "Amazon Web Services (AWS)",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Google Cloud Platform",
+        "Highly Proficient with Python/Javascript",
+        "Seasoned Data Analyzer",
+        "Experience creating/reading JSON files"
       ]
     },
     {
@@ -127,12 +127,12 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Customer Rapport",
-        "Customer Retention",
-        "Effective with Conflict Managment",
+        "Easily builds Customer Rapport",
+        "Highly Proficient Customer Retention",
+        "Effective Conflict Managment",
         "Expert Onboarder",
         "Patient Listener",
-        ""
+        "Open Communicator"
       ]
     }
   ],
