@@ -39,7 +39,7 @@ Graduated from **Whatcom Community College** in 2021 with a **Associate of Scien
 
 My experience at Whatcom was incredibly tangible. I learned how to configure a multitude of Cisco devices through **Cisco IOS**. I gained experience with **Snort**, **Burpsuite**, **nmap**, and other useful network tools. I commonly used **Linux(Debian/Redhat)**, **Virtualization software**, and **packetTracer** in course work.
 
-The Cisco Networking series of classes had us learn how to set up a multitude of networks from the ground up. It covered the entirety of the CCNA Certification exam. Course work included **subnetting**, **configuring Cisco Switches**, and **configuring/troubleshooting a variety of networks**. 
+The Cisco Networking series of classes had us learn how to set up a multitude of networks from the ground up. It covered the entirety of the CCNA Certification exam. Course work included **subnetting**, **configuring Cisco Switches**, and **configuring/troubleshooting a variety of networks**.
 
 Industrial Control Systems Security covered security concepts tailored to embedded and/or live systems. It taught security concepts pertaining to **programmable logic controllers** and security ideas like a **Data Diode**. This course prepared me to take the first step towards helping secure critical infrastructure like **dams**, **windmills**, **nuclear power plants**, etc.
 
