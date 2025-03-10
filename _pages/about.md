@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Seattle, WA</p>
-    <h6><p>Picture taken Lake Angeles in Port Angeles, WA</p></h6>
 
 social: true # includes social icons at the bottom of the page
 ---
