@@ -360,41 +360,41 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-zendesk",
-          title: 'Zendesk',
-          description: "An overview of Zendesks workflow",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-prccdc-2017",
+          section: "News",},{id: "projects-prccdc-2017",
           title: 'PRCCDC 2017',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CCDC/";
+            },},{id: "projects-freshdesk",
+          title: 'Freshdesk',
+          description: "An overview of the Freshdesk workflow",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/freshdeskOverview/";
+            },},{id: "projects-stake-animation-rigging",
+          title: 'Stake Animation Rigging',
+          description: "My experience creating my first Animation rig in Blender for my video game Stake",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stakeAnimationRigging/";
             },},{id: "projects-stake",
           title: 'Stake',
           description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Stake/";
-            },},{id: "projects-stake",
-          title: 'Stake',
-          description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
+              window.location.href = "/projects/stakeOverview/";
+            },},{id: "projects-learning-new-support-ticket-software",
+          title: 'Learning new Support Ticket Software',
+          description: "An overview of what most Support Ticket Software workflows look like",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pentestLab/";
+              window.location.href = "/projects/supportTicketGeneral/";
+            },},{id: "projects-building-a-quickly-deployable-red-team-blue-team-lab-with",
+          title: 'Building a Quickly Deployable Red Team/Blue Team Lab with',
+          description: "Building a Quickly Deployable Red Team/Blue Team Lab with Vagrant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vagrantPentestLab/";
+            },},{id: "projects-zendesk-overview",
+          title: 'Zendesk Overview',
+          description: "an overview of the Zendesk workflow",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zendeskOverview/";
             },},{
         id: 'social-email',
         title: 'email',
