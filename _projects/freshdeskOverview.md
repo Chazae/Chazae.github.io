@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Zendesk
-description: An overview of Zendesks workflow
-img: assets/img/
-importance: 2
-category: work
+title: Freshdesk
+description: An overview of the Freshdesk workflow
+img:
+importance: 3
+category: Ticketing Software Overview
 ---
 
 Every project has a beautiful feature showcase page.

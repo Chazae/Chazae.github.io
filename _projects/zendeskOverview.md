@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Zendesk Overview
+description: an overview of the Zendesk workflow
+img: assets/img/1.jpg
 importance: 3
-category: work
+category: Ticketing Software Overview
 ---
 
 Every project has a beautiful feature showcase page.
@@ -49,7 +48,7 @@ Say you wanted to write a little bit about your project before you posted the re
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
