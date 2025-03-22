@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Projects, Cybersecurity Writeups, and Career Research
+title: Projects
 permalink: /projects/
 description: 
 nav: true
