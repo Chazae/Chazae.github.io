@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-personal-projects-cybersecurity-writeups-and-career-research",
-          title: "Personal Projects, Cybersecurity Writeups, and Career Research",
+        },{id: "nav-projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
