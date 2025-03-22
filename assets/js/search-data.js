@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A collection of my personal projects, career research, and Cybersecurity Writeups.",
+        },{id: "nav-personal-projects-cybersecurity-writeups-and-career-research",
+          title: "Personal Projects, Cybersecurity Writeups, and Career Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -380,9 +380,9 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-ccdc2017",
-          title: 'CCDC2017',
-          description: "Competing in the 2017 Collegiate Cyber Defense Competition",
+            },},{id: "projects-prccdc-2017",
+          title: 'PRCCDC 2017',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CCDC/";
             },},{id: "projects-stake",
