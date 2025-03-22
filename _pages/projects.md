@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my personal projects and career research. They often mix together!
+description: A collection of my personal projects, career research, and Cybersecurity Writeups.
 nav: true
 nav_order: 2
-display_categories: [Recent, Career Oriented Research, Game Design]
+display_categories: [Recent, Ticketing Software Overview, Cybersecurity, Game Design]
 horizontal: false
 ---
 
