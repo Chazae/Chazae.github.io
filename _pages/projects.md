@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Personal Projects, Cybersecurity Writeups, and Career Research
 permalink: /projects/
-description: A collection of my personal projects, career research, and Cybersecurity Writeups.
+description: 
 nav: true
 nav_order: 2
 display_categories: [Recent, Ticketing Software Overview, Cybersecurity, Game Design]

@@ -1,13 +1,10 @@
 ---
 layout: page
-title: CCDC2017
-description: Competing in the 2017 Collegiate Cyber Defense Competition
+title: PRCCDC 2017
+description: 
 img:
 importance: 1
 category: Cybersecurity
----
-# PRCCDC 2017
-
 ---
 
 # Preparation
