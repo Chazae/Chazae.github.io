@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A collection of my personal projects and career research. They often mix together!",
+          description: "A collection of my personal projects, career research, and Cybersecurity Writeups.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -360,9 +360,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          section: "News",},{id: "projects-zendesk",
+          title: 'Zendesk',
+          description: "An overview of Zendesks workflow",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -380,11 +380,21 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-ccdc2017",
+          title: 'CCDC2017',
+          description: "Competing in the 2017 Collegiate Cyber Defense Competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CCDC/";
             },},{id: "projects-stake",
           title: 'Stake',
           description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Stake/";
+            },},{id: "projects-stake",
+          title: 'Stake',
+          description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pentestLab/";
             },},{
         id: 'social-email',
         title: 'email',
