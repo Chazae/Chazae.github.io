@@ -28,7 +28,7 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
 
   ---
   
-  Certifications
+  ###Certifications
 
   CompTIA Network+ - N10-009 Exam scheduled 04/08/2025
 
