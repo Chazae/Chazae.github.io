@@ -385,8 +385,8 @@ ninja.data = [{
           description: "An overview of what most Support Ticket Software workflows look like",
           section: "Projects",handler: () => {
               window.location.href = "/projects/supportTicketGeneral/";
-            },},{id: "projects-building-a-quickly-deployable-red-team-blue-team-lab-with",
-          title: 'Building a Quickly Deployable Red Team/Blue Team Lab with',
+            },},{id: "projects-quick-deploy-pentest-lab-with-vagrant",
+          title: 'Quick Deploy Pentest Lab with Vagrant',
           description: "Building a Quickly Deployable Red Team/Blue Team Lab with Vagrant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vagrantPentestLab/";
