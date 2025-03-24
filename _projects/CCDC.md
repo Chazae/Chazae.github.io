@@ -7,11 +7,11 @@ importance: 1
 category: Cybersecurity
 ---
 
-# Preparation
+# Preparation  
 
-Our team started organizing for the 2017 Pacific Rim Cyber Defense Competition in September of 2016. With 6 available slots on the team roster, and one backup position, we decided to assign roles.
+Our team started organizing for the 2017 Pacific Rim Cyber Defense Competition in September of 2016. With 6 available slots on the team roster, and one backup position, we decided to assign roles.  
 
-### Team Roles
+### Team Roles  
 
 - Chase - Active Directory Administrator
 - Eli - Web Server Administrator
@@ -19,25 +19,25 @@ Our team started organizing for the 2017 Pacific Rim Cyber Defense Competition i
 - Austin - Media Database Administrator
 - Brian - Network Security Administrator
 - Quinton - Presents Incident Response to Management
-- Wes - Fill
+- Wes - Fill  
 
-### Competition Outline
+### Competition Outline  
 
-While specific operating systems used in the competition were hidden from us, we knew the basics. Our team was to be given a “fake” business network. This network included a Web Server, Active Directory Service, various databases, and multiple hosts. The competition itself ran for two days in twelve hour increments.
+While specific operating systems used in the competition were hidden from us, we knew the basics. Our team was to be given a “fake” business network. This network included a Web Server, Active Directory Service, various databases, and multiple hosts. The competition itself ran for two days in twelve hour increments.  
 
-Professional Penetration testers from companies/organizations like the FBI, Raytheon, Google. HP, Dell, Intel, and the CIA were to infiltrate this network. Their goal was to steal “flags”, disrupt user service, and eventually shut down our network. 
+Professional Penetration testers from companies/organizations like the FBI, Raytheon, Google. HP, Dell, Intel, and the CIA were to infiltrate this network. Their goal was to steal “flags”, disrupt user service, and eventually shut down our network.  
 
-The only documentation allowed to us were things publicly available on the internet. Hosting our own webserver prior was not allowed. This meant that we were unable to bring things like customized Group Policy Administrative Templates, private notes, or hardening documentation. 
+The only documentation allowed to us were things publicly available on the internet. Hosting our own webserver prior was not allowed. This meant that we were unable to bring things like customized Group Policy Administrative Templates, private notes, or hardening documentation.  
 
-Our team was tasked to prevent intrusions by these professional hackers, and mitigate damage to the network when detected. We were given fifteen minutes at the start of the competition to harden every machine assigned to us on the network. After those first fifteen minutes, the professional pen-testers could launch their attack.
+Our team was tasked to prevent intrusions by these professional hackers, and mitigate damage to the network when detected. We were given fifteen minutes at the start of the competition to harden every machine assigned to us on the network. After those first fifteen minutes, the professional pen-testers could launch their attack.  
 
 ---
 
-# Competition - Day 1
+# Competition - Day 1  
 
-### First Fifteen Minutes
+### First Fifteen Minutes  
 
-Our view upon entering the competition was that the result of our hardening techniques within these first fifteen minutes of the competition would determine what problems the team would face for the rest of the event.   
+Our view upon entering the competition was that the result of our hardening techniques within these first fifteen minutes of the competition would determine what problems the team would face for the rest of the event.
 
 Everyone was assigned their respective machine for their position.
 
@@ -49,59 +49,63 @@ Operating Systems in use:
 | SunOS (Unix) | Old Database that could not be disconnected | Austin |
 | Windows  7 | User | Matt |
 | Ubuntu Host | User | Brian |
-| Ubuntu Server | Web Server | Eli |
+| Ubuntu Server | Web Server | Eli |  
 
-### Hardening Windows Server 2012
+### Hardening Windows Server 2012  
 
-Entire books have been written on hardening any type of Windows OS’s but here is a quick run down on what I changed first.
+Upon logging on to the Windows Server 2012 machine, I realized the the password policy was weak, the service pack was outdated, and there were far too many unnecessary third party applications for a backend server. While every
 
-Reduce Amount of Roles to only ones needed
+Here is a quick run down on what I changed first.
 
-Verify Current User Accounts
+1. Turn on Firewall
 
-Remove Unused Accounts
+2. Set Strict Firewall rules
 
-Remove Guest Account access for business network. 
+3. Uninstalled unnecessary applications
 
-Remove Administrative Roles from Every account except mine
+4. Updated and performed a virus scan using Windows Defender
 
-Assign Users to correct Groups
+5. Installed, updated, and performed a malware scan using Malwarebytes
 
-Set password policy
+6. Reduced the amount of Groups with Administrative privleges
 
-Set passwords to be complicated
+7. Verified valid User Accounts based off of staff sheet we were given for the fake busimess
 
-Write those password on a notepad for time being, with the option for them the be changed upon next login.
+8. Remove Unused Accounts
 
-Turn off unnecessary services
+9. Remove Guest Account access for business network
 
-Remove unnecessary applications
+10. Remove Administrative Roles from Every account except mine
 
-Install Malwarebytes and Update Windows Defenders
+11. Assigned Users to correct Groups while adhering to the Least-Privelege Principal
 
-Turn on Firewall
+12. Set password policy
 
-Set Strict Firewall rules
+13. Set passwords to be complicated
 
-### Quiet Day
+14. Write those password on a notepad for time being, with the option for them the be changed upon next login.
+
+15. Turn off unnecessary services  
+
+### Quiet Day  
 
 Most of the day was spent reading network logs and filing out Incident Report Sheets. When Brian was able to identify an unsuccessful attack through a Snort. 
 
-After the competition we would come to find out that we had done really well, but they had already stolen the flag on our web server. Though no team was able to secure their flag by the end of the competition, it put into perspective just how stealthy and persistent a cyber attack can be. 
+After the competition we would come to find out that we had done really well, but they had already stolen the flag on our web server. Though no team was able to secure their flag by the end of the competition, it put into perspective just how stealthy and persistent a cyber attack can be.  
 
 ---
 
-# Competition - Day 2
+# Competition - Day 2  
 
 Upon booting up our respective machines, we found that a few attacks had occurred during the night. The results of these attacks were devastating to our networks CIA triad.
 
 Our website had been defaced, users could not connect to the login server, and the Windows Server 2012 machine had been fully compromised.
 
-### Web Server Backup
+### Web Server Backup  
 
 The first problem was solved incredibly quickly. Eli’s first steps within his first fifteen minutes had him making a backup of the website. He encrypted this backup, and then stored it within a hidden directory he made on the Ubuntu Server. Though the attacker was able to deface the live website, they did not find the hidden folder containing the back-up. Eli restored the web site to the version prior to it’s defacement almost instantly.
 
-### Sticky Keys Exploit
+### Sticky Keys Exploit  
 
 The Windows Server I was in charge of had been compromised, and there was seemingly no way back into it outside of a fresh install. Every available user profile either had it’s password changed or was removed entirely.
 
@@ -121,7 +125,7 @@ The attack is pretty simple and usually goes as follows:
 
 Staring at the login screen, unable to access any of my accounts, I decided to check to see if the exploit was present. A SYSTEM level command prompt popped on the screen signifying that it was, and I was able to remove the Administrator role from every account except for one I created. 
 
-### Subnet Swap
+### Subnet Swap  
 
 After regaining access to the Windows 2012 Server, it seemed as if the computer was disconnected from its original network entirely. The only other computer  we were able to ping was the Ubuntu Web Server. 
 
@@ -129,7 +133,7 @@ As our entire team came from a Computer Science background, none of us had any f
 
 After an hour of troubleshooting without online capabilities, we finally stumbled across a solution by starting and stopping the DhcpServer service. Though we were back online, we had lost an hour of availability. 
 
-# 2nd Place Finish
+# 2nd Place Finish  
 
 The scoring rubric for this competition was complicated and a bit flexible depending upon how much damage a hack had done to a team. As most of the attacks were scripted, with  Our team scored highest in “Scripted Attack Defense” and “Mitigation”.
 
@@ -137,7 +141,7 @@ As most of us were competing for our first time, a second place finish felt incr
 
 ---
 
-# Talking to the Pen-Testers
+# Talking to the Pen-Testers  
 
 Praises
 
@@ -169,7 +173,7 @@ Methods Discussed
     - Calls were made to the “Business Phone” asking for details about our web server.
     - Attempts to put USB sticks in the restrooms
 
-# What To Focus On
+# What To Focus On  
 
 Networking Fundamentals
 
@@ -194,29 +198,29 @@ Red-Team Preparation
 - Learning about more Red-Team attack techniques would have prepared us for some of the basic attacks that ended up working on our network
 - Easier to understand where our weak points are outside of just theory
 
-# Conclusions
+# Conclusions  
 
-### The competition was much more about mitigation than intrusion prevention.
+### The competition was much more about mitigation than intrusion prevention.  
 
-The networks they gave us were setup to fail immediately, and the only true defense was to disconnect the server from the network entirely. 
+The networks they gave us were setup to fail immediately, and the only true defense was to disconnect the server from the network entirely.  
 
-As 50% of the points available for each team were directly tied to user service availability, this was an extremely large risk. Every team that attempted this method ended up losing more points than they would have gained.
+As 50% of the points available for each team were directly tied to user service availability, this was an extremely large risk. Every team that attempted this method ended up losing more points than they would have gained.  
 
-### Old Unpatched Operating Systems are extremely dangerous and prevalent
+### Old Unpatched Operating Systems are extremely dangerous and prevalent  
 
-Learning intrusion defense methods for older versions of Windows/Linux machines is not a waste of time. I assumed that introductory penetration test guides focused on older tech largely due to the ease of which it can be hacked. What I realize now is that old operating systems are not only prevalent in a large amount of businesses, but a commonly used attack vector. 
+Learning intrusion defense methods for older versions of Windows/Linux machines is not a waste of time. I assumed that introductory penetration test guides focused on older tech largely due to the ease of which it can be hacked. What I realize now is that old operating systems are not only prevalent in a large amount of businesses, but a commonly used attack vector.  
 
-### Cybersecurity = Preparation
+### Cybersecurity = Preparation  
 
-The most important principal I took away from this event is that Cybersecurity in the real world is all about preparation. 
+The most important principal I took away from this event is that Cybersecurity in the real world is all about preparation.  
 
-At the very least a security focused network administrator needs:
+At the very least a security focused network administrator needs:  
 
 1. To follow security fundamentals when configuring/managing their network
 2. An Incident Response Plan
 3. A Disaster Recovery Plan
 
-# Start of a New Journey
+# Start of a New Journey  
 
 Prior to this competition, my time in college had been focused mainly on mathematics and the development of software. Computer Science was fascinating, but there was far too much focus on theory as opposed to application. As a consequence, our teams software defense was rock solid, but our network security faltered.
 
