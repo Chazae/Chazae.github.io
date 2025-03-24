@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Recent, Ticketing Software Overview, Cybersecurity, Game Design]
+display_categories: [Ticketing Software Overview, Cybersecurity, Game Design]
 horizontal: false
 ---
 
@@ -57,7 +57,7 @@ horizontal: false
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include projects.liquid %  }
     {% endfor %}
   </div>
   {% endif %}
