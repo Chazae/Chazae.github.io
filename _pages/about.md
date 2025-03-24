@@ -24,7 +24,13 @@ Independent of coursework, I have studied and simulated a multitude of different
 
 My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can be found in the navigation bar above.
 
-**Below** I have a list of relevant courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
+**Below** I have a list of relevant certifications and courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
+
+  ---
+  
+  Certifications
+
+  CompTIA Network+ - N10-009 Exam scheduled 04/08/2025
 
   ---
 
