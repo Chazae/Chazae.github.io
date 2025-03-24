@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Chase Sharp",
-    "label": "Cybersecurity Specialist",
+    "label": "Technical Support Specialist",
     "image": "",
     "email": "Chasesharp96@gmail.com",
     "phone": "",
@@ -235,7 +235,7 @@
     },
     {
       "name": "GameJam: Fish & Ships",
-      "summary": "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
+      "summary": "2D ship shooter with physics based movement",
       "highlights": ["2D Pixel Art", "Physics based movement","Made in 48 Hours","Shannon Smidgely"],
       "startDate": "2021-04-24",
       "endDate": "2021-04-25",
