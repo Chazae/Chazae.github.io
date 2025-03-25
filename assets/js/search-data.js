@@ -360,8 +360,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-prccdc-2017",
-          title: 'PRCCDC 2017',
+          section: "News",},{id: "projects-prccdc-2016",
+          title: 'PRCCDC 2016',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CCDC/";
