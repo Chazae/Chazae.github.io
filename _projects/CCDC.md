@@ -1,15 +1,15 @@
 ---
 layout: page
-title: PRCCDC 2017
+title: PRCCDC 2016
 description: 
-img:
+img: assets/img/prccdclogo.png
 importance: 1
 category: Cybersecurity
 ---
 
 # Preparation  
 
-Our team started organizing for the 2017 Pacific Rim Cyber Defense Competition in September of 2016. With 6 available slots on the team roster, and one backup position, we decided to assign roles.  
+Our team started organizing for the 2016 Pacific Rim Cyber Defense Competition in September of 2016. With 6 available slots on the team roster, and one backup position, we decided to assign roles.  
 
 ### Team Roles  
 
