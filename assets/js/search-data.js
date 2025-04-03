@@ -365,11 +365,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CCDC/";
-            },},{id: "projects-freshdesk",
-          title: 'Freshdesk',
-          description: "An overview of the Freshdesk workflow",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/freshdeskOverview/";
             },},{id: "projects-stake-animation-rigging",
           title: 'Stake Animation Rigging',
           description: "My experience creating my first Animation rig in Blender for my video game Stake",
@@ -380,21 +375,11 @@ ninja.data = [{
           description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stakeOverview/";
-            },},{id: "projects-learning-new-support-ticket-software",
-          title: 'Learning new Support Ticket Software',
-          description: "An overview of what most Support Ticket Software workflows look like",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/supportTicketGeneral/";
             },},{id: "projects-quick-deploy-pentest-lab-with-vagrant",
           title: 'Quick Deploy Pentest Lab with Vagrant',
           description: "Building a Quickly Deployable Red Team/Blue Team Lab with Vagrant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vagrantPentestLab/";
-            },},{id: "projects-zendesk-overview",
-          title: 'Zendesk Overview',
-          description: "an overview of the Zendesk workflow",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/zendeskOverview/";
             },},{
         id: 'social-email',
         title: 'email',
