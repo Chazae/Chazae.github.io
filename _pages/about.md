@@ -33,10 +33,10 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
   
 ## Certifications
 
->CompTIA Network+ - N10-009 Exam
->Certification Recieved: April 13th, 2025
->Certification Expires: April 13th 2028
->[Proof of Certifcation](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P)
+CompTIA Network+ - N10-009 Exam  
+Certification Recieved: April 13th, 2025  
+Certification Expires: April 13th 2028  
+[Proof of Certifcation](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P)  
   ---
 
 Graduated from **Whatcom Community College** in 2021 with a **Associate of Science** in ***Cybersecurity***.
