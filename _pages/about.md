@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
   ---
 
-# About Me
+## About Me
 
 Currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
 
@@ -33,15 +33,15 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
   
 ## Certifications
 
-CompTIA Network+ - N10-009 Exam
-Certification Recieved: April 13th, 2025
-Certification Expires: April 13th 2028
-Certifcation URL
+>CompTIA Network+ - N10-009 Exam
+>Certification Recieved: April 13th, 2025
+>Certification Expires: April 13th 2028
+>[Proof of Certifcation](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P)
   ---
 
 Graduated from **Whatcom Community College** in 2021 with a **Associate of Science** in ***Cybersecurity***.
 
->My courses included:  
+My courses included:  
 > -*Open Source Operating Systems*  
 > -*Cisco Networking I, II, and III*  
 > -*Network Security I and II*  
@@ -60,7 +60,7 @@ Digital Forensics covered a vast amount of material pertaining to **digital fing
 
 Attended **Western Washington University** from 2014 to 2017 and have **134 credits completed** towards a **Bachelor of Science** in ***Computer Science***. I completed the requirements for a **Minor** in ***Mathematics***.
 
->My courses included:  
+My courses included:  
 > -*Computer Programming I*  
 > -*Computer Programming and Linear Data Structures*  
 > -*Data Structures*  
