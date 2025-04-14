@@ -30,8 +30,10 @@ My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/pr
   
 ### Certifications
 
-  CompTIA Network+ - N10-009 Exam scheduled 04/08/2025
+  CompTIA Network+ - N10-009 Exam
 
+  Certification Recieved: April 13th, 2025
+  Certification Expires: April 13th 2028
   ---
 
 Graduated from **Whatcom Community College** in 2021 with a **Associate of Science** in ***Cybersecurity***.
