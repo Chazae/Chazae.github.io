@@ -1,6 +1,5 @@
 {
-  "basics": [
-    {
+  "basics":{
     "name": "Chase Sharp",
     "label": "Technical Support Specialist",
     "image": "",
@@ -14,11 +13,8 @@
       "city": "Seattle",
       "countryCode": "US",
       "region": "Washington"
-      }
-    }
-  ],
-  "profiles": [
-    {
+  },
+  "profiles": [{
       "network": "LinkedIn",
       "username": "Chazae",
       "url": "https://www.linkedin.com/in/chazae/"
@@ -27,10 +23,9 @@
       "network": "Github",
       "username": "Chazae",
       "url": "https://github.com/Chazae/"
-    }
-  ],
-  "education": [
-    {
+    }]
+},
+  "education": [{
       "institution": "Whatcom Community College",
       "location": "Bellingham, Washington",
       "url": "https://www.whatcom.edu",
@@ -50,20 +45,14 @@
       "startDate": "2014-09-24",
       "endDate": "2018-03-14",
       "courses": ["Data Structures","Computer Programming 1","Computer Programming and Linear Data structure","Calculus 3","Linear Algebra","Probability & Statistics"]
-    }
-  ],
-  "certificates": [
-    {
-      "items": {
-        "date": "2025-04-13",
-        "name": "Network+ N10-009",
-        "url": "https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P",
-        "issuer": "CompTIA"
-      }
-    }
-  ],
-  "work": [
-    {
+}],
+  "certificates": [{
+      "name": "Network+ N10-009",
+      "date": "2025-04-13",
+      "issuer": "CompTIA",
+      "url": "https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P"
+}],
+  "work": [{
       "name": "The Sandwich Odyssey",
       "location": "Bellingham, Washington",
       "position": "Line Cook/Tech Support",
@@ -92,10 +81,8 @@
       "endDate": "2022-12-14",
       "summary": "As a Retail Associate at Vaughns Ventures main my responsibilites involved sales, customer retention, and technical support. As a small retail business, their sales depended on the loyalty of their regulars.",
       "highlights": ["Retail", "Soft Skills", "Interpersonal Skills", "Conflict Management", "System Troubleshooting"]
-    }
-  ],
-  "skills": [
-    {
+}],
+  "skills": [{
       "name": "Cisco Networking",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
@@ -146,8 +133,7 @@
         "Patient Listener",
         "Open Communicator"
       ]
-    }
-  ],
+}],
   "Coding Languages": [
     {
       "language": "Python",
