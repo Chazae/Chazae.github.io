@@ -1,8 +1,6 @@
-Profile was made using al-folio
+Profile made using al-folio (Jekyll)
 
 Here is a Link to the template: http://github.com/alshedivat/al-folio
-
-Jekyll 
 
 Contact me at sharpchase96@gmail.com
 
