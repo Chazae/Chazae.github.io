@@ -1,5 +1,6 @@
 {
-  "basics": {
+  "basics": [
+    {
     "name": "Chase Sharp",
     "label": "Technical Support Specialist",
     "image": "",
@@ -13,20 +14,21 @@
       "city": "Seattle",
       "countryCode": "US",
       "region": "Washington"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Chazae",
-        "url": "https://www.linkedin.com/in/chazae/"
-      },
-      {
-        "network": "Github",
-        "username": "Chazae",
-        "url": "https://github.com/Chazae/"
       }
-    ]
-  },
+    }
+  ],
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "Chazae",
+      "url": "https://www.linkedin.com/in/chazae/"
+    },
+    {
+      "network": "Github",
+      "username": "Chazae",
+      "url": "https://github.com/Chazae/"
+    }
+  ],
   "education": [
     {
       "institution": "Whatcom Community College",
