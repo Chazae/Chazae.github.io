@@ -25,33 +25,6 @@
       "url": "https://github.com/Chazae/"
     }]
 },
-  "education": [{
-      "institution": "Whatcom Community College",
-      "location": "Bellingham, Washington",
-      "url": "https://www.whatcom.edu",
-      "area": "Cybersecurity",
-      "studyType": "Associates in Science",
-      "startDate": "2020-03-02",
-      "endDate": "2022-01-02",
-      "score": "10",
-      "courses": ["Cisco Networking I, II, and III", "Network Security I and II", "Open Source Operating Systems", "Digital Forensics", "Industrial Control System Security"]
-    },
-    {
-      "institution": "Western Washington University",
-      "location": "Bellingham, Washington",
-      "url": "https://www.wwu.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelors in Science - 134 Credits Completed -- Completed Courses for a Minor in Mathematics",
-      "startDate": "2014-09-24",
-      "endDate": "2018-03-14",
-      "courses": ["Data Structures","Computer Programming 1","Computer Programming and Linear Data structure","Calculus 3","Linear Algebra","Probability & Statistics"]
-}],
-  "certificates": [{
-      "name": "Network+ N10-009",
-      "date": "2025-04-13",
-      "issuer": "CompTIA",
-      "url": "https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P"
-}],
   "work": [{
       "name": "The Sandwich Odyssey",
       "location": "Bellingham, Washington",
@@ -81,6 +54,34 @@
       "endDate": "2022-12-14",
       "summary": "As a Retail Associate at Vaughns Ventures main my responsibilites involved sales, customer retention, and technical support. As a small retail business, their sales depended on the loyalty of their regulars.",
       "highlights": ["Retail", "Soft Skills", "Interpersonal Skills", "Conflict Management", "System Troubleshooting"]
+}],
+  "certificates": [{
+      "name": "Network+ N10-009",
+      "icon": "fa-solid fa-plug",
+      "date": "2025-04-13",
+      "issuer": "CompTIA",
+      "url": "https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5VVZBGQCPJBQ1H9P"
+}],
+  "education": [{
+      "institution": "Whatcom Community College",
+      "location": "Bellingham, Washington",
+      "url": "https://www.whatcom.edu",
+      "area": "Cybersecurity",
+      "studyType": "Associates in Science",
+      "startDate": "2020-03-02",
+      "endDate": "2022-01-02",
+      "score": "10",
+      "courses": ["Cisco Networking I, II, and III", "Network Security I and II", "Open Source Operating Systems", "Digital Forensics", "Industrial Control System Security"]
+    },
+    {
+      "institution": "Western Washington University",
+      "location": "Bellingham, Washington",
+      "url": "https://www.wwu.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelors in Science - 134 Credits Completed -- Minor in Mathematics",
+      "startDate": "2014-09-24",
+      "endDate": "2018-03-14",
+      "courses": ["Data Structures","Computer Programming 1","Computer Programming and Linear Data structure","Calculus 3","Linear Algebra","Probability & Statistics"]
 }],
   "skills": [{
       "name": "Cisco Networking",
