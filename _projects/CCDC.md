@@ -19,7 +19,7 @@ Our team started organizing for the 2016 Pacific Rim Cyber Defense Competition i
 - Austin - Media Database Administrator
 - Brian - Network Security Administrator
 - Quinton - Presents Incident Response to Management
-- Wes - Fill  
+- Wes - Fill
 
 ### Competition Outline  
 
