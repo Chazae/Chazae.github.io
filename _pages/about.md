@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <h3><b>Cybersecurity Specialist</b></h3> -- <i>Seattle, WA</i>
-
+subtitle: <h3><b>IT Technician</b></h3> -- <i>Seattle, WA</i>
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,15 +16,13 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-Currently working on personal projects to keep my skills sharp while I pursue a **Technical Support position**. My most recent projects have been practicing exploits within a virtual pentesting lab I configured, and developing a video game from the ground up using a combination of **Unreal**, **Blender**, **Audacity**, and **GIMP 3.0**.
+Currently working as an **IT Service Desk Technician** for **MacDonald-Miller Facility Solutions**. My team provides technical support for a company of 1700 people, many of which are Local Union workers. Users are managed in a Hybrid Enviroment using both **Active Directory** and **M365**. In addition, we manage requests from users through the **Zendesk** platform.
 
-As a result of working in the service industry for the past 13 years, my soft skills are top notch. Understanding a consumers needs, and having the relevant skills to solve their issues at hand are key to striving in those spaces. **In the tech field, efficient Root Cause Analysis problem solving can be jump started through effective listening and communicating**.
+As a result of working in the service industry for the past 13 years, my soft skills are top notch. Understanding a persons needs, and stressors quickly is key to striving in sensitive situations. **When providing an IT solution, efficient Root Cause Analysis can be jump started through effective listening and communicating**.
 
-Independent of coursework, I have studied and simulated a multitude of different Support Ticket software. These include **Freshdesk**, **Zendesk**, **Salesforce**, **Service Desk**, and **Bold Desk**. I learned these to be able to quickly adapt to any Support Ticket software that I may encounter.
+**Please check out my [projects](https://chazae.github.io/projects) page while you are here!** I am great at explaining complicated topics in a way most people can comprehend. I believe these posts showcase this best. My main motivation for learning is to share it with those around me! So let me know what you think, and shoot me a message if something does not make sense!
 
-**Please check out my [projects](https://chazae.github.io/projects) page while you are here!** I am great at explaining complicated topics in a way most people can comprehend, and I believe these posts showcase this best. They also show just how motivated and eager I am to learn new technical topics outside of the workspace.
-
-My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can be found in the navigation bar above.
+My [resume](https://chazae.github.io/cv), [projects](https://chazae.github.io/projects), and [blog](https://chazae.github.io/blog) can also be found in the navigation bar above.
 
 **Below** I have a list of relevant certifications and courses I've completed with a brief explanation of what I learned from both **Whatcom Community College** and **Western Washington University**.
 
