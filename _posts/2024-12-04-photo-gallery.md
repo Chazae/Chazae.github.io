@@ -1,63 +1,18 @@
 ---
 layout: post
-title: a post with image galleries
+title: 3D Models to 2D Pixel Art
 date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+description: Images from my attempt to make pixel art using 3D Models
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
-  lightbox2: true
-  photoswipe: true
   spotlight: true
-  venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
+Hello! I am going to make a full post about this but wanted to show off some cool pixel are I made by messing around with Blender.
 
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
-
----
-
-## [PhotoSwipe](https://photoswipe.com/)
-
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-  </a>
-  <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
-    data-cropped="true"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" />
-  </a>
-  <!-- data-pswp-src with custom URL in href -->
-  <a href="https://unsplash.com"
-    data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-    data-pswp-width="2500"
-    data-pswp-height="1666"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt="" />
-  </a>
-  <!-- wrapped with any element: -->
-  <div>
-    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1667"
-      target="_blank">
-      <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt="" />
-    </a>
-  </div>
-</div>
+I made these models about 6 months ago. My friend and I started working on a game concept similar to Fear and Hunger so we needed pixel art. As neither of us are experienced artists, I decided to break out these old models and try to make some pixel are out of them! Here are some stills from what we have so far:
 
 ---
 
@@ -90,8 +45,3 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 ---
 
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>

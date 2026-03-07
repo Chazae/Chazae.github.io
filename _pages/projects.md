@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Ticketing Software Overview, Cybersecurity, Game Design]
+display_categories: [Cybersecurity, Game Design, Certifications]
 horizontal: false
 ---
 
