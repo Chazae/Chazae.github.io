@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-3d-models-to-2d-pixel-art",
       
-        title: "a post with image galleries",
+        title: "3D Models to 2D Pixel Art",
       
-      description: "this is what included image galleries could look like",
+      description: "Images from my attempt to make pixel art using 3D Models",
       section: "Posts",
       handler: () => {
         
