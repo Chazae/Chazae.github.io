@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CCDC/";
+            },},{id: "projects-sc-401",
+          title: 'SC-401',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sc401/";
             },},{id: "projects-stake-animation-rigging",
           title: 'Stake Animation Rigging',
           description: "My experience creating my first Animation rig in Blender for my video game Stake",
