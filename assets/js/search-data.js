@@ -54,16 +54,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sc401/";
-            },},{id: "projects-stake-animation-rigging",
-          title: 'Stake Animation Rigging',
-          description: "My experience creating my first Animation rig in Blender for my video game Stake",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/stakeAnimationRigging/";
-            },},{id: "projects-stake",
-          title: 'Stake',
-          description: "A vampire themed Rogue-like FPS. Explode enemies with gruesome physics based combat.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/stakeOverview/";
             },},{id: "projects-quick-deploy-pentest-lab-with-vagrant",
           title: 'Quick Deploy Pentest Lab with Vagrant',
           description: "Building a Quickly Deployable Red Team/Blue Team Lab with Vagrant",
