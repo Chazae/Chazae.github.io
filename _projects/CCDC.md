@@ -7,6 +7,15 @@ importance: 1
 category: Cybersecurity
 ---
 
+---
+layout: page
+title: PRCCDC 2016
+description: 
+img: assets/img/prccdclogo.png
+importance: 1
+category: Cybersecurity
+---
+
 # Preparation  
 
 Our team started organizing for the 2016 Pacific Rim Cyber Defense Competition in September of 2016. With 6 available slots on the team roster, and one backup position, we decided to assign roles.  
@@ -23,9 +32,9 @@ Our team started organizing for the 2016 Pacific Rim Cyber Defense Competition i
 
 ### Competition Outline  
 
-While specific operating systems used in the competition were hidden from us, we knew the basics. Our team was to be given a “fake” business network. This network included a Web Server, Active Directory Service, various databases, and multiple hosts. The competition itself ran for two days in twelve hour increments.  
+While specific operating systems used in the competition were hidden from us, we knew the basics. Our team was to be given a "fake" business network. This network included a Web Server, Active Directory Service, various databases, and multiple hosts. The competition itself ran for two days in twelve hour increments.  
 
-Professional Penetration testers from companies/organizations like the FBI, Raytheon, Google. HP, Dell, Intel, and the CIA were to infiltrate this network. Their goal was to steal “flags”, disrupt user service, and eventually shut down our network.  
+Professional Penetration testers from companies/organizations like the FBI, Raytheon, Google. HP, Dell, Intel, and the CIA were to infiltrate this network. Their goal was to steal "flags", disrupt user service, and eventually shut down our network.  
 
 The only documentation allowed to us were things publicly available on the internet. Hosting our own webserver prior was not allowed. This meant that we were unable to bring things like customized Group Policy Administrative Templates, private notes, or hardening documentation.  
 
@@ -53,7 +62,7 @@ Operating Systems in use:
 
 ### Hardening Windows Server 2012  
 
-Upon logging on to the Windows Server 2012 machine, I realized the the password policy was weak, the service pack was outdated, and there were far too many unnecessary third party applications for a backend server. While every
+Upon logging on to the Windows Server 2012 machine, I realized the password policy was weak, the service pack was outdated, and there were far too many unnecessary third party applications for a backend server.
 
 Here is a quick run down on what I changed first.
 
@@ -67,9 +76,9 @@ Here is a quick run down on what I changed first.
 
 5. Installed, updated, and performed a malware scan using Malwarebytes
 
-6. Reduced the amount of Groups with Administrative privleges
+6. Reduced the amount of Groups with Administrative privileges
 
-7. Verified valid User Accounts based off of staff sheet we were given for the fake busimess
+7. Verified valid User Accounts based off of staff sheet we were given for the fake business
 
 8. Remove Unused Accounts
 
@@ -77,7 +86,7 @@ Here is a quick run down on what I changed first.
 
 10. Remove Administrative Roles from Every account except mine
 
-11. Assigned Users to correct Groups while adhering to the Least-Privelege Principal
+11. Assigned Users to correct Groups while adhering to the Least-Privilege Principal
 
 12. Set password policy
 
@@ -89,7 +98,7 @@ Here is a quick run down on what I changed first.
 
 ### Quiet Day  
 
-Most of the day was spent reading network logs and filing out Incident Report Sheets. When Brian was able to identify an unsuccessful attack through a Snort. 
+Most of the day was spent reading network logs and filing out Incident Report Sheets. When Brian was able to identify an unsuccessful attack through a Snort.
 
 After the competition we would come to find out that we had done really well, but they had already stolen the flag on our web server. Though no team was able to secure their flag by the end of the competition, it put into perspective just how stealthy and persistent a cyber attack can be.  
 
@@ -103,23 +112,23 @@ Our website had been defaced, users could not connect to the login server, and t
 
 ### Web Server Backup  
 
-The first problem was solved incredibly quickly. Eli’s first steps within his first fifteen minutes had him making a backup of the website. He encrypted this backup, and then stored it within a hidden directory he made on the Ubuntu Server. Though the attacker was able to deface the live website, they did not find the hidden folder containing the back-up. Eli restored the web site to the version prior to it’s defacement almost instantly.
+The first problem was solved incredibly quickly. Eli's first steps within his first fifteen minutes had him making a backup of the website. He encrypted this backup, and then stored it within a hidden directory he made on the Ubuntu Server. Though the attacker was able to deface the live website, they did not find the hidden folder containing the back-up. Eli restored the web site to the version prior to it's defacement almost instantly.
 
 ### Sticky Keys Exploit  
 
-The Windows Server I was in charge of had been compromised, and there was seemingly no way back into it outside of a fresh install. Every available user profile either had it’s password changed or was removed entirely.
+The Windows Server I was in charge of had been compromised, and there was seemingly no way back into it outside of a fresh install. Every available user profile either had it's password changed or was removed entirely.
 
 Prior to this competition I had competed in a few Red-Team Competitions. Part of a penetration testers methodology includes leaving a backdoor in a previously compromised network in order to regain access when needed. When this tactic is employed successfully, it turns a normal hack into an Advanced Persistent Threat. 
 
-As I had experience hacking Windows Operating Systems, I knew about a common privilege escalation tactic named the “Sticky Keys” exploit. The attack leverages the insecure method in which the “Sticky Keys” menu is launched. 
+As I had experience hacking Windows Operating Systems, I knew about a common privilege escalation tactic named the "Sticky Keys" exploit. The attack leverages the insecure method in which the "Sticky Keys" menu is launched. 
 
 The intended use of sticky keys is to provide an ease of access feature for multi-key commands when using Windows. You access the menu to enable this option by pressing shift 5 times in a row. This menu is normally located in *C:\Windows\System32\sethc.exe* 
 
 The attack is pretty simple and usually goes as follows:
 
 1. Create a copy of cmd.exe
-2. rename this copy to “sethc.exe”
-3. replace the original “sethc.exe” with the one you just made
+2. rename this copy to "sethc.exe"
+3. replace the original "sethc.exe" with the one you just made
 4. upon pressing shift 5 times, sticky keys will now launch a command shell with the current users privileges
 5. Upon logging out and using this hack while at the login screen, a command prompt with system level privilege as the system level privileges are used to determine which user profile to boot.
 
@@ -135,7 +144,7 @@ After an hour of troubleshooting without online capabilities, we finally stumble
 
 # 2nd Place Finish  
 
-The scoring rubric for this competition was complicated and a bit flexible depending upon how much damage a hack had done to a team. As most of the attacks were scripted, with  Our team scored highest in “Scripted Attack Defense” and “Mitigation”.
+The scoring rubric for this competition was complicated and a bit flexible depending upon how much damage a hack had done to a team. Our team scored highest in "Scripted Attack Defense" and "Mitigation".
 
 As most of us were competing for our first time, a second place finish felt incredible. 
 
@@ -145,9 +154,9 @@ As most of us were competing for our first time, a second place finish felt incr
 
 Praises
 
-- Shout out to Brian for intrusion detection! His Snort filters were picking up multiple different attacks on the network, and the resulting Incident Response Plans that we were able to show “Management” (Judges) earned us a large amount of points.
+- Shout out to Brian for intrusion detection! His Snort filters were picking up multiple different attacks on the network, and the resulting Incident Response Plans that we were able to show "Management" (Judges) earned us a large amount of points.
 - Shout out to Eli for having the wherewithal to back up the entire web server as his first step on the machine
-- One of the hackers was surprised to see that they no longer had access to the Windows Server 2012 machine. This was due to my removal of rogue administrator accounts through the leftover “Sticky Keys” exploit
+- One of the hackers was surprised to see that they no longer had access to the Windows Server 2012 machine. This was due to my removal of rogue administrator accounts through the leftover "Sticky Keys" exploit
     - In addition, most of the Windows Server 2012 machines were bricked the first day.
     - Personalized attacks had to be made on our teams Windows Server 2012 machine as the generic scripted attacks were successful
 
@@ -156,21 +165,21 @@ Methods Discussed
 - nmap
     - Installed on the rogue XP box
         - Used to fingerprint the other systems on our network
-        - Definition of a “Pivot” in a Penetration test
+        - Definition of a "Pivot" in a Penetration test
 - Metasploit
     - Most exploits used were found on the Metasploit framework
-    - Pre-scripted attacks were formed prior to the competition being started that encompassed a large amount of old/vulnerable OS’s
+    - Pre-scripted attacks were formed prior to the competition being started that encompassed a large amount of old/vulnerable OS's
     - Scripted attacks were used for a couple of reasons
-        - Networks were setup to be extremely vulnerable, with some of the vulnerabilities being “unpatchable” some critical services on the network were run on OS’s that were EoL
-            - For EoL Windows OS’s one could request a custom security patch for the machine running the critical service, but that was not possible in the time frame of the competition
+        - Networks were setup to be extremely vulnerable, with some of the vulnerabilities being "unpatchable". Critical services on the network were hosted on OS's that were EoL
+            - For EoL Windows OS's one could request a custom security patch for the machine running the critical service, but that was not possible in the time frame of the competition
         - As they did not have to be quiet, they were able to launch attacks towards multiple points of failure on our network
-            - Increases chances that some attacks would be “lost in the noise”
+            - Increases chances that some attacks would be "lost in the noise"
             - It can create panic within the defending team, which can lead to brash decision making
 - Armitage
     - Used to manage and visualize targets after infiltration
     - Can also be used to recommended exploits based off of previous fingerprinting
 - Social Engineering
-    - Calls were made to the “Business Phone” asking for details about our web server.
+    - Calls were made to the "Business Phone" asking for details about our web server.
     - Attempts to put USB sticks in the restrooms
 
 # What To Focus On  
@@ -212,7 +221,7 @@ Learning intrusion defense methods for older versions of Windows/Linux machines 
 
 ### Cybersecurity = Preparation  
 
-The most important principal I took away from this event is that Cybersecurity in the real world is all about preparation.  
+The most important principle I took away from this event is that Cybersecurity in the real world is all about preparation.  
 
 At the very least a security focused network administrator needs:  
 
