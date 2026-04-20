@@ -20,26 +20,20 @@ I made these models about 6 months ago. My friend and I started working on a gam
 
 <!-- Group 1 -->
 <div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
+    <a class="spotlight" href="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/images/battleSprites0-sheet-export.png">
+        <img src="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/thumbnails/battleSprites0-sheet-export.png" />
     </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
+    <a class="spotlight" href="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/images/idleOutput-sheet.png">
+        <img src="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/thumbnails/idleOutput-sheet.png" />
     </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
+    <a class="spotlight" href="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/images/idleOutput0-sheet.png">
+        <img src="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/thumbnails/idleOutput0-sheet.png" />
     </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
+    <a class="spotlight" href="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/images/kickOutput0-sheet.png">
+        <img src="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/thumbnails/kickOutput0-sheet.png" />
     </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
+    <a class="spotlight" href="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/images/runOutput0-sheet.png">
+        <img src="Https://Chazae.github.io/assets/img/blog/pixelArtBlenderBlog/thumbnails/runOutput0-sheet.png" />
     </a>
 </div>
 
