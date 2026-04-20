@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2026/photo-gallery/";
         
       },
     },{id: "news-i-like-turtle-wow",
