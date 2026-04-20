@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 3D Models to 2D Pixel Art
-date: 2024-12-04 01:59:00
+date: 2026-4-19 12:59:00
 description: Images from my attempt to make pixel art using 3D Models
 tags: formatting images
-categories: sample-posts
-thumbnail: assets/img/9.jpg
+categories: pixel-art
 images:
   spotlight: true
 ---
